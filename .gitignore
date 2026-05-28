@@ -1,0 +1,20 @@
+﻿# PyInstaller
+build/
+dist/
+*.spec
+
+# API keys y config privada
+config/
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+env/
+
+# Logs
+*.log
